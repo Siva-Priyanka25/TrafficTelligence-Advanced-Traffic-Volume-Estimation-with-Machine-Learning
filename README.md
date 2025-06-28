@@ -53,11 +53,6 @@ traffic volume.csv
 
 traffic volume.ipynb
 
-🧪 How to Run the Project
-Clone the Repository
-git clone https://github.com/Siva-Priyanka25/TrafficTelligence-Advanced-Traffic-Volume-Estimation-with-Machine-Learning
-Install Dependencies
-
 pip install -r requirements.txt Train the Model
 
 python train_model.py (Optional) Run the Flask App
